@@ -1,0 +1,12 @@
+camel-tools
+coqpit-config
+git+https://github.com/idiap/coqui-ai-TTS
+git+https://github.com/m-bain/whisperx.git
+google-cloud-language
+huggingface_hub
+numpy
+pyarabic
+torch
+torchaudio
+torchvision
+transformers
